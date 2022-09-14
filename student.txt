@@ -1,0 +1,3 @@
+student name: Ciubuc Cosmin-Constantin
+student number: 690365
+student class: IT 1C 
